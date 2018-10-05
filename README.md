@@ -7,6 +7,6 @@ back end project. This framework follows the Page Object Model Design Pattern.
 # Tools
 + Selenium
 + Chrome Driver
-+ Python 3.7
++ Python 3.6
 + HTML Test Reports
 + Screenshots
